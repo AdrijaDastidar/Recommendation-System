@@ -6,19 +6,19 @@
 
 ## 📜 Table of Contents
 
-- [Introduction](#introduction)
-- [Project Structure](#project-structure)
-- [Approaches](#approaches)
-  - [Content-Based Filtering](#1-content-based-filtering)
-  - [Collaborative Filtering](#2-collaborative-filtering)
-  - [Knowledge Graph-Based Methods](#3-knowledge-graph-based-methods)
-  - [Baseline Methods](#4-baseline-methods)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-- [Future Work](#future-work)
-- [Contact](#contact)
+- [Introduction](#-introduction)
+- [Project Structure](#-project-structure)
+- [Approaches](#-approaches)
+  - [Content-Based Filtering](#-1-content-based-filtering)
+  - [Collaborative Filtering](#-2-collaborative-filtering)
+  - [Knowledge Graph-Based Methods](#-3-knowledge-graph-based-methods)
+  - [Baseline Methods](#-4-baseline-methods)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Results](#-results)
+- [Technologies Used](#-technologies-used)
+- [Future Work](#-future-work)
+- [Contact](#-contact)
 
 ## 📝 Introduction
 
